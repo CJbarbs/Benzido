@@ -1,4 +1,4 @@
-@media (min-device-width:320px) and (max-device-width : 568px) {
+@media (min-width:320px) and (max-width : 568px) {
 
 #mobile-page { display: block;}
 #desktop-page {display: none;}
