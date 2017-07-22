@@ -1,0 +1,6 @@
+@media (min-device-width:568px) {
+
+#mobile-page { display: none;}
+#desktop-page {display: block;}
+
+}
